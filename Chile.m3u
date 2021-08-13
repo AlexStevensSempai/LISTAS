@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1,AE Radio TV (720p)
+http://edge1.cl.grupoz.cl/aeradio/live/index.m3u8
+#EXTINF:-1,Alegria TV (480p)
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
+#EXTINF:-1,Antofagasta TV (720p)
+https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8
+#EXTINF:-1,Campo Abierto TV (Huechuraba) (480p)
+http://v3.tustreaming.cl/campoabierto/live1/playlist.m3u8
+#EXTINF:-1,Canal 26 (360p)
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w125697617_b1264000_sleng.m3u8
+#EXTINF:-1,Canal 26 (720p)
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/playlist.m3u8
+#EXTINF:-1,Canal 26 (360p)
+https://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:-1,Canal 26 (720p)
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1,DW Español (400p)
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1,DW Latino America
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1,El Garage TV (242p)
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1495522364_b446000_sleng.m3u8
+#EXTINF:-1,El Garage TV (480p)
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1,El Pingüino TV (240p)
+http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
+#EXTINF:-1,El Pingüino TV (360p)
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/livestream.m3u8
+#EXTINF:-1,El Pingüino TV (360p)
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/playlist.m3u8
+#EXTINF:-1,El Pingüino TV (360p)
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/sat.m3u8
+#EXTINF:-1,El Pingüino TV (720p)
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
+#EXTINF:-1,El Pingüino TV (720p)
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1,France 24 Español
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
+#EXTINF:-1,France 24 Español
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+#EXTINF:-1,France 24 Español (576p)
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1,Genial TV
+http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8
+#EXTINF:-1,Gracia TV (720p)
+http://v3.tustreaming.cl/graciatv/live1/index.m3u8
+#EXTINF:-1,HiperTV (720p)
+https://inliveserver.com:1936/11010/11010/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,ITV Patagonia (720p)
+https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/playlist.m3u8
+#EXTINF:-1,ITV Patagonia (720p)
+https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
+#EXTINF:-1,Pintana TV
+http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
+#EXTINF:-1,Portalfoxmix (720p)
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1,Portalfoxmix (720p)
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1,Portalfoxmix (720p)
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1,Radio Maxima 94.9 FM SB (720p)
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+#EXTINF:-1,Radio Zeta TV (480p)
+https://unlimited1-cl.dps.live/radioztv/radioztv.smil/radioztv/livestream2/playlist.m3u8
+#EXTINF:-1,Rocco TV (Coyhaique) (240p)
+http://evo.eltelon.com:1935/live/rocco-tv/playlist.m3u8
+#EXTINF:-1,Ruidos FM (360p)
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
+#EXTINF:-1,Stgo.TV (720p)
+https://stv.janus.cl/playlist/stream.m3u8
+#EXTINF:-1,Teletrak (720p)
+https://unlimited1-us.dps.live/teletrak/teletrak.smil/teletrak/livestream1/playlist.m3u8
+#EXTINF:-1,Tendencias Prime HD
+https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8
+#EXTINF:-1,Thema Televisión (La Serena) (720p)
+https://unlimited10-cl.dps.live/thema/thema.smil/thema/livestream1/playlist.m3u8
+#EXTINF:-1,TV5 Linares (720p)
+https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8
+#EXTINF:-1,TV5 Linares (720p)
+https://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/playlist.m3u8
+#EXTINF:-1,UESTV (720p)
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:-1,UESTV (720p)
+http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
+#EXTINF:-1,UESTV (720p)
+http://edge1.cl.grupoz.cl/uestv/live/playlist_DVR.m3u8
+#EXTINF:-1,ULagos TV
+http://tv.ulagos.cl/web/live.m3u8
+#EXTINF:-1,UMAGTV Televisión (Punta Arenas) (720p)
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+#EXTINF:-1,Universidad Autónoma Temuco (UATV) HD
+https://unlimited1-us.dps.live/uatv/uatv.smil/uatv/livestream1/playlist.m3u8
+#EXTINF:-1,VC Online (546p)
+https://593b04c4c5670.streamlock.net/8068/8068/playlist.m3u8
+#EXTINF:-1,VTV (Valle de Aconcagua)
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
